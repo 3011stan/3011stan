@@ -19,4 +19,4 @@
   <img alt="logo-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="logo-mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
-
+![Snake animation](https://github.com/3011stan/3011stan/blob/output/github-contribution-grid-snake.svg)

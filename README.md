@@ -3,6 +3,7 @@
 - 🎓 Estudo Desenvolvimento de Software Full Stack na <a href="https://www.betrybe.com/">Trybe</a> e curso Ciências da Computação na <a href="https://uvv.br/">UVV</a>
 - 👩‍💻 Atualmente estou estudando a tecnologia <a href="https://expressjs.com/pt-br/">Express</a>
 - 🚲 Tenho como hobbies andar de skate e bike, correr, pegar uma praia e a boa e velha jogatina 🎮
+- 📧: 3011stan@gmail.com
  <div>
   <a href="https://github.com/3011stan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3011stan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo ao meu perfil 👋
 
-- 🎓 Estudo Desenvolvimento de Software Full Stack na <a href="https://www.betrybe.com/">Trybe</a> e curso Ciências da Computação na <a href="https://uvv.br/">UVV</a>
+- 🎓 Estudo Desenvolvimento de Software Full Stack na <a href="https://www.betrybe.com/">Trybe</a> e faço Ciências da Computação na <a href="https://uvv.br/">UVV</a>
 - 👩‍💻 Atualmente estou estudando a tecnologia <a href="https://expressjs.com/pt-br/">Express</a>
 - 🚲 Tenho como hobbies andar de skate e bike, correr, pegar uma praia e a boa e velha jogatina 🎮
 - 📧: 3011stan@gmail.com

@@ -1,9 +1,11 @@
 ### Olá, seja bem-vindo ao meu perfil 👋
 
 - 🎓 Estudo Desenvolvimento de Software Full Stack na <a href="https://www.betrybe.com/">Trybe</a> e faço Ciências da Computação na <a href="https://uvv.br/">UVV</a>
-- 👩‍💻 Atualmente estou estudando a tecnologia <a href="https://expressjs.com/pt-br/">Express</a> e Arquitetura de Software MVC.
+- 👩‍💻 Atualmente estou estudando e trabalhando com a tecnologia <a href="https://docs.microsoft.com/pt-br/dotnet/">.NET Core</a> no desenvolvimento de WEB APIs.
+- 👩‍💻 Também estou trabalhando com Wordpress, PHP, JS, CSS e algumas bibliotecas Front-end.
 - 🚲 Tenho como hobbies andar de skate e bike, correr, pegar uma praia e a boa e velha jogatina 🎮
 - 📧: 3011stan@gmail.com
+- 🌐: <a href="https://3011stan.github.io/">Meu website</a>
  <div>
   <a href="https://github.com/3011stan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3011stan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

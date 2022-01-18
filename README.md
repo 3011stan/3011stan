@@ -3,7 +3,7 @@
 - 🎓 Estudo Desenvolvimento de Software Full Stack na <a href="https://www.betrybe.com/">Trybe</a> e faço Ciências da Computação na <a href="https://uvv.br/">UVV</a>
 - 👩‍💻 Atualmente estou estudando e trabalhando com a tecnologia <a href="https://docs.microsoft.com/pt-br/dotnet/">.NET Core</a> no desenvolvimento de WEB APIs.
 - 👩‍💻 Também estou trabalhando com Wordpress, PHP, JS, CSS e algumas bibliotecas Front-end.
-- 🤓 Finalizando o curso na Trybe, programando em Python realizando raspagens de dados.
+- 🤓 Finalizando o curso na Trybe, programando em Python realizando raspagem de dados.
 - 🚲 Tenho como hobbies andar de skate e bike, correr, pegar uma praia e a boa e velha jogatina 🎮
 - 📧: 3011stan@gmail.com
 - 🌐: <a href="https://3011stan.github.io/">Meu website</a>

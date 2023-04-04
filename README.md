@@ -7,6 +7,7 @@
 - 🚲 Tenho como hobbies andar de skate e bike, correr, pegar uma praia e a boa e velha jogatina 🎮.
 - 📧: 3011stan@gmail.com
 - 🌐: <a href="https://3011stan.github.io/">Meu website</a> (em construção)
+- 🔗: <a href="https://www.linkedin.com/in/stans-bs/">Linkedin</a>
 
  <div>
   <a href="https://github.com/3011stan">

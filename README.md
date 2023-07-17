@@ -1,8 +1,8 @@
 ### Olá, seja bem-vindo ao meu perfil 👋
 
-- 🎓 Estou no 5° período de bacharel em Ciências da Computação na <a href="https://uvv.br/">UVV</a> (Universidade de Vila Velha).
+- 🎓 Estou no 6° período de bacharel em Ciências da Computação na <a href="https://uvv.br/">UVV</a> (Universidade de Vila Velha).
 - 🎓 Finalizei com êxito o curso de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> em 06/2022. 🙌
-- 👩‍💻 Atualmente estou trabalhando como Fullstack Developer, utilizando principalmente as stacks NodeJS e ReactJS.
+- 👩‍💻 Atualmente estou trabalhando como Fullstack Developer, utilizando as tecnologias NodeJS, ReactJS, Java 11, Spring Boot e Rabbit MQ.
 - 👩‍💻 Também estou estudando <a href="https://nextjs.org/">NextJS</a> a fim de continuar utilizando ReactJS e ainda manter os motores de busca enxergando as aplicações construídas por mim.
 - 🚲 Tenho como hobbies andar de skate e bike, correr, pegar uma praia e a boa e velha jogatina 🎮.
 - 📧: 3011stan@gmail.com

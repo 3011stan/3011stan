@@ -3,7 +3,7 @@
 - 🎓 Iniciei o curso de Engenharia de Computação em 2018 na <a href="https://www.ufes.br">UFES</a>, onde estive até 2020.
 - 🎓 Estou no 6° período de bacharel em Ciências da Computação na <a href="https://uvv.br/">UVV</a> (Universidade de Vila Velha).
 - 🎓 Finalizei com êxito o curso de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> em 2022. 🙌
-- 👩‍💻 Atualmente estou trabalhando como Fullstack Developer, utilizando as tecnologias NodeJS, ReactJS, Java 17, Spring Boot, Rabbit MQ e Sonar.
+- 👩‍💻 Atualmente estou trabalhando como Fullstack Developer Pleno, utilizando as tecnologias NodeJS, ReactJS, Java 17, Spring Boot, Rabbit MQ e Sonar.
 - 👩‍💻 Também estou estudando <a href="https://kubernetes.io/pt-br/">Kubernetes</a> a fim de desenvolver melhor minha capacidade de construir soluções escaláveis.
 - 🚲 Tenho como hobbies andar de skate e bike, correr, pegar uma praia e a boa e velha jogatina 🎮.
 - 📧: 3011stan@gmail.com

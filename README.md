@@ -1,10 +1,9 @@
 ### Olá, seja bem-vindo ao meu perfil 👋
 
 - 🎓 Iniciei o curso de Engenharia de Computação em 2018 na <a href="https://www.ufes.br">UFES</a>, onde estive até 2020.
-- 🎓 Estou no 6° período de bacharel em Ciências da Computação na <a href="https://uvv.br/">UVV</a> (Universidade de Vila Velha).
-- 🎓 Finalizei com êxito o curso de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> em 2022. 🙌
-- 👩‍💻 Atualmente estou trabalhando como Fullstack Developer Pleno, utilizando as tecnologias NodeJS, ReactJS, Java 17, Spring Boot, Rabbit MQ e Sonar.
-- 👩‍💻 Também estou estudando <a href="https://kubernetes.io/pt-br/">Kubernetes</a> a fim de desenvolver melhor minha capacidade de construir soluções escaláveis.
+- 🎓 Formado em Ciências da Computação pela <a href="https://uvv.br/">UVV</a> (Universidade de Vila Velha).
+- 🎓 Finalizei com êxito o curso de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> em 2022.
+- 👩‍💻 Atualmente estou trabalhando como Fullstack Developer Pleno na <a href="https://escolaconquer.com.br/">Escola Coqnuer</a>, utilizando as tecnologias Go Lang, NodeJS, ReactJS (Next), Java (Spring Boot), Rabbit MQ e Sonar. As ferramentas de cloud do GCP e AWS são bastante presentes em meu dia a dia.
 - 🚲 Tenho como hobbies andar de skate e bike, correr, pegar uma praia e a boa e velha jogatina 🎮.
 - 📧: 3011stan@gmail.com
 - 🌐: <a href="https://3011stan.github.io/">Meu website</a> (em construção)

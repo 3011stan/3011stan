@@ -1,6 +1,5 @@
 ### Olá, seja bem-vindo ao meu perfil 👋
 
-- 🎓 Iniciei o curso de Engenharia de Computação em 2018 na <a href="https://www.ufes.br">UFES</a>, onde estive até 2020.
 - 🎓 Formado em Ciências da Computação pela <a href="https://uvv.br/">UVV</a> (Universidade de Vila Velha).
 - 🎓 Finalizei com êxito o curso de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> em 2022.
 - 👩‍💻 Atualmente estou trabalhando como Fullstack Developer Pleno na <a href="https://escolaconquer.com.br/">Escola Coqnuer</a>, utilizando as tecnologias Go Lang, NodeJS, ReactJS (Next), Java (Spring Boot), Rabbit MQ e Sonar. As ferramentas de cloud do GCP e AWS são bastante presentes em meu dia a dia.
